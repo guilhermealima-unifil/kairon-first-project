@@ -1,0 +1,26 @@
+# Dependências
+node_modules/
+
+# Build de produção
+frontend/dist/
+
+# "Banco de dados" gerado em runtime (dados fictícios/seed regenerável)
+backend/database.json
+
+# Uploads de usuário
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operacional / editor
+.DS_Store
+Thumbs.db
