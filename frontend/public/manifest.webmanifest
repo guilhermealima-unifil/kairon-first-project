@@ -1,0 +1,13 @@
+{
+  "name": "Kairon — ERP + CRM",
+  "short_name": "Kairon",
+  "description": "ERP e CRM unificados para varejo de moda: produtos, clientes, caixa e analytics em um só lugar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
